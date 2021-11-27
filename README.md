@@ -1,0 +1,1 @@
+# Better-predictions-for-AFL-from-adjusted-Elo-ratings-by-ellis2013nz
